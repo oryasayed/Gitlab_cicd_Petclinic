@@ -103,8 +103,18 @@ Copy the registration token and paste it when prompted
 the runner now added.
 
 
+# now we are creating pipeline
+
+<img width="524" alt="image" src="https://github.com/user-attachments/assets/416d847a-deed-417d-bddc-acc769f4ca88" />
 
 
+creating the CI just few steps to check each step now we do compile only.
+
+<img width="1136" alt="image" src="https://github.com/user-attachments/assets/3ed22961-89e7-4321-9b34-40f6a4b747fe" />
+
+# we should install sonar
+
+docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
 
 
 
