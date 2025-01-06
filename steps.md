@@ -117,4 +117,13 @@ creating the CI just few steps to check each step now we do compile only.
 docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
 
 
+open 9000 port
+
+create user
+go to admin>security>user and generate token
+
+
+<img width="1307" alt="image" src="https://github.com/user-attachments/assets/b7c029fb-eef9-4f04-8f01-db736b6c41bf" />
+
+
 
