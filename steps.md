@@ -125,5 +125,11 @@ go to admin>security>user and generate token
 
 <img width="1307" alt="image" src="https://github.com/user-attachments/assets/b7c029fb-eef9-4f04-8f01-db736b6c41bf" />
 
+# sonar stage
+
+<img width="1119" alt="image" src="https://github.com/user-attachments/assets/c9fb32c1-a9ad-4cd5-8f7a-ee5b7682c332" />
+
+
+
 
 
